@@ -1,0 +1,2212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-24T12:00:00">
+<shop>
+<name>Выбор КМВ</name>
+<company>Выбор КМВ</company>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Декоративные блоки для забора</category>
+<category id="2">Ландшафтные элементы</category>
+<category id="3">Линейный водоотвод</category>
+<category id="4">Материалы защиты и укрепления грунта</category>
+<category id="5">Плита тротуарная</category>
+<category id="6">Придверные системы грязезащиты</category>
+</categories>
+<offers>
+<offer id="14" available="true">
+<name>Блок полнотелый для кладки армированных колонн и простенков СКЦ(тп)-7Л150кол 300*150*150</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/kekek_0e6a0078aef2fd62043ee3253f4579e4_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-dlja-kladki-armirovannyh-470.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="15" available="true">
+<name>Блок полнотелый для кладки армированных колонн и простенков СКЦ(тп)-7Л150кол 300*150*150</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/nnn_f4879dd907f1ffa5c348493124897f63_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-dlja-kladki-armirovannyh-471.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="16" available="true">
+<name>Блок полнотелый для кладки неармированных колонн СКЦ(тп)-8Л150кол 300*150*150 Искусственный камень</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/dodo_96707a6d7a4d31ec1e60db571fda6313_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-dlja-kladki-nearmirovannyh-473.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="17" available="true">
+<name>Блок полнотелый для кладки неармированных колонн СКЦ(тп)-8Л150кол 300*150*150 Искусственный камень</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/step_b77a9df0915d5ff32d1a08a138111834_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-dlja-kladki-nearmirovannyh-474.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="18" available="true">
+<name>Блок полнотелый для кладки неармированных колонн СКЦ(тп)-8Л150кол 300*150*150 Искусственный камень</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/sheshesh_91159bb380d3ea5a21ecda275a3d1327_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-dlja-kladki-nearmirovannyh.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="19" available="true">
+<name>Блок полнотелый стеновой СКЦ(тп)-9Л150кол 300*150*150 Искусственный камень на колотой поверхности</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/baz_9d0662e408554589fc9db0ddda8188c9_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-stenovoj-skctp-9l150kol.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="20" available="true">
+<name>Блок пустотелый стеновой финишный (комплект) СКЦ(т)-18/1Л100кол; СКЦ(т)-18/2Л100кол 380*190*140</name>
+<price>326</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/lootitt_899fc2c66070d2f87586c5a4802b88ec_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-pustotelyj-stenovoj-finishnyj-komplekt-484.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: h=160; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="21" available="true">
+<name>Блок пустотелый стеновой финишный (комплект) СКЦ(т)-18/1Л100кол; СКЦ(т)-18/2Л100кол 380*190*140</name>
+<price>326</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/jachjachja_655168dbde8f2f0fd84dfea233d41f8b_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-pustotelyj-stenovoj-finishnyj-komplekt-485.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: h=160; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="22" available="true">
+<name>Блок пустотелый стеновой финишный (комплект) СКЦ(т)-18/1Л100кол; СКЦ(т)-18/2Л100кол 380*190*140</name>
+<price>326</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/shiii_7fe3ca1db7d05a437b41c0d50c5704f0_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-pustotelyj-stenovoj-finishnyj-komplekt.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=160; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="23" available="true">
+<name>Блок пустотелый стеновой финишный (комплект)СКЦ(т)-18/1Л100кол; СКЦ(т)-18/2Л100кол 380*190*140</name>
+<price>326</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ennenn_5da7a4d35b3b902823f27a9e72911acd_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-pustotelyj-stenovoj-finishnyj-komplektskct.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: h=160; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="24" available="true">
+<name>Блок пустотелый стеновой СКЦ(т)-18Л100кол 380*190*140 Искусственный камень на колотой поверхности</name>
+<price>318</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/mmama_58b51c831a8119b6453fe2e9849876d1_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-pustotelyj-stenovoj-skct-5l100kol-480.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: h=160; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="25" available="true">
+<name>Блок пустотелый стеновой СКЦ(т)-18Л100кол 380*190*140 Искусственный камень на колотой поверхности</name>
+<price>318</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schshshne_5f3acc7f1b304da1afcd9b271397940f_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-pustotelyj-stenovoj-skct-5l100kol-481.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: h=160; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="26" available="true">
+<name>Блок пустотелый стеновой СКЦ(т)-18Л100кол 380*190*140 Искусственный камень на колотой поверхности</name>
+<price>318</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/mimiii_361f070b7c4c74e9f360335345ea5fa3_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-pustotelyj-stenovoj-skct-5l100kol.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=160; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="27" available="true">
+<name>Плиты накрывные ПН-3 400*400*60 Искусственный камень на колотой поверхности Степняк</name>
+<price>1052</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/777767_72cffc726d5a9ada3cbfb77b176bd7cc_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/plity-nakryvnye-pn-3-40040060-504.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: h=60; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="28" available="true">
+<name>Плиты накрывные ПН-3 400*400*60 Искусственный камень на колотой поверхности Доломит</name>
+<price>1052</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/orooo_95deae7d242e25f8841cb7110558bda8_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/plity-nakryvnye-pn-3-40040060-505.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=60; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="29" available="true">
+<name>Плиты накрывные ПН-3 400*400*60 Искусственный камень на колотой поверхности Базальт</name>
+<price>1052</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schsm_174b953113518864fc035787a65a0acd_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/plity-nakryvnye-pn-3-40040060-506.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: h=60; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="30" available="true">
+<name>Плиты накрывные ПН-3 400*400*60 Искусственный камень на колотой поверхности Шунгит</name>
+<price>1052</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ddldld_0340b220717b188c257cded5efbd3560_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/plity-nakryvnye-pn-3-40040060.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: h=60; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="31" available="true">
+<name>Плиты накрывные ПН-4 500*220*60 Искусственный камень на колотой поверхности Доломит</name>
+<price>556</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/enrtpr_1a5c68aca655b5f40479e1723631d02f_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/plity-nakryvnye-pn-4-50022060-501.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=60; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="32" available="true">
+<name>Плиты накрывные ПН-4 500*220*60 Искусственный камень на колотой поверхности Базальт</name>
+<price>556</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/orrgoo_24d718682553270fd2a123fd4d1caa99_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/plity-nakryvnye-pn-4-50022060-502.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: h=60; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="33" available="true">
+<name>Плиты накрывные ПН-4 500*220*60 Искусственный камень на колотой поверхности Шунгит</name>
+<price>556</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/papi_mai_9be322a8c603edd615eb8f459c6bdff0_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/plity-nakryvnye-pn-4-50022060.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: h=60; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="34" available="true">
+<name>Полублок полнотелый стеновой СКЦ(тп)-10Л150кол 300*100*150 Искусственный камень на колотой</name>
+<price>222</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/33333_3168cd709b368828d60b8e3f160589f6_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/polublok-polnotelyj-stenovoj-skctp-10l150kol-488.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="35" available="true">
+<name>Полублок полнотелый стеновой СКЦ(тп)-10Л150кол 300*100*150 Искусственный камень на колотой</name>
+<price>222</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/bobob_60b0f2b80cd3004033b705dc2fb31a47_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/polublok-polnotelyj-stenovoj-skctp-10l150kol-489.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="36" available="true">
+<name>Полублок полнотелый стеновой СКЦ(тп)-10Л150кол 300*100*150 Искусственный камень на колотой</name>
+<price>222</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/fyfyf_77fae8ecf7dcc0cf809e30aca5674348_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/polublok-polnotelyj-stenovoj-skctp-10l150kol.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="37" available="true">
+<name>Пустотелые блоки для забора СКЦ(т)-19/1Лкол100 380*380*140 Искусственный камень на колотой</name>
+<price>648</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/tiprap_f5f654b73339dc5ebaf070846709e771_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/pustotelye-bloki-dlja-zabora-skct.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: h=160; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="52" available="true">
+<name>Крышка для колонн из полнотелого блока 4-скатная Стандарт Коричневый</name>
+<price>1526</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/963699_f991dddde13a2541f9f41319c6caa5d9_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/standart/kryshka-dlja-kolonn-iz-polnotelogo-544.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: h=90; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="53" available="true">
+<name>Крышка для колонн из полнотелого блока плоская Стандарт Коричневый</name>
+<price>1457</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/78787_260f83a03bbda74dd7772e18704610f9_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/standart/kryshka-dlja-kolonn-iz-polnotelogo.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: h=70; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="54" available="true">
+<name>ПЛИТЫ НАКРЫВНЫЕ ПН-11 520*230*70 Стандарт на колотой поверхности Коричневый</name>
+<price>236</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/korich_b7c3f3d42dd32fb8cc94b1dbd153c9c6_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/standart/plity-nakryvnye-pn-1-46023070-542.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: h=70; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="56" available="true">
+<name>Плиты накрывные ПН-3 400*400*60 Стандарт на колотой поверхности Коричневый</name>
+<price>727</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/40_044619060989e236a7462ea35ab9fa16_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/standart/plity-nakryvnye-pn-3-40040060-533.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: h=60; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="60" available="true">
+<name>Полублок полнотелый стеновой СКЦ(тп)-10Л150кол 300*100*150 Стандарт на колотой поверхности</name>
+<price>140</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/01011_a95bf8c72539fc15fd0b4b2657778c15_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/standart/polublok-polnotelyj-stenovoj-skctp-10l150kol-517.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: h=150; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="65" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Гранит Чёрный, комплект из 3 видов плит</name>
+<price>1979</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/7f884b95bc6165b3f5677c3c6d260081_57687d88ae5a60b88ec66d4a4b33fe62_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-staryj-gorod-a1fsm4-1402.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="66" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Гранит Серый, комплект из 3 видов плит</name>
+<price>1735</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/0f60f238b9ef4639c3afbf8b21cf68f6_aadf5920227de3dafa2d788bdd4f7595_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-staryj-gorod-a1fsm4-1404.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="67" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Гранит Красный, комплект из 3 видов плит</name>
+<price>1979</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/8d2be1f361efb284ee8773c2426a69e9_91b30e0a2044d309916812bbc246df84_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-staryj-gorod-a1fsm4-1406.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="68" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Гранит Коричневый, комплект из 3 видов плит</name>
+<price>1979</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/6c82efdd793308ff11c29acda77e6c6f_d22f19aff19fff41a81b73eb8aa6dee4_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-staryj-gorod-a1fsm4-1407.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="69" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Гранит Жёлтый, комплект из 3 видов плит</name>
+<price>2073</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/7ee4cd98cba40694c186e2e96e749f2f_ee913e5acdd548a5cf0a13844cf2b95e_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-staryj-gorod-a1fsm4-1409.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="71" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Гранит Белый, комплект из 3 видов плит</name>
+<price>1858</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/7443d8994312e222ae30f5c27d92b302_c68247bad325932eec7f545d470a8a9a_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-staryj-gorod-a1fsm4-1411.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="72" available="true">
+<name>Тротуарная плитка "ТРАПЕЦИЯ" - Б.1.Т.6 Гранит Белый</name>
+<price>2046</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0137_95aef5e415fb6ac38720a3642c2c1c60_437x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-trapecija-b1t6-granit-2011.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 60; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="73" available="true">
+<name>Тротуарная плитка "ТРАПЕЦИЯ" - Б.1.Т.6 Гранит Красный</name>
+<price>2120</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0137_95aef5e415fb6ac38720a3642c2c1c60_437x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-trapecija-b1t6-granit-2012.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 60; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="74" available="true">
+<name>Тротуарная плитка "ТРАПЕЦИЯ" - Б.1.Т.6 Гранит Черный</name>
+<price>2120</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0137_95aef5e415fb6ac38720a3642c2c1c60_437x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-trapecija-b1t6-granit-2014.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 60; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="75" available="true">
+<name>Тротуарная плитка "ТРАПЕЦИЯ" - Б.1.Т.6 Гранит Желтый</name>
+<price>2220</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0137_95aef5e415fb6ac38720a3642c2c1c60_437x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnaja-plitka-trapecija-b1t6-granit-2015.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 60; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="76" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Гранит Серый, комплект из 5 видов плит</name>
+<price>1653</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/39e05b2948d0c60ce3f36532b9478c3c_41f70ac9ba36341e8e65bae3147b6ad6_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-antik-a3a4-granit-1383.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="77" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Гранит Красный, комплект из 5 видов плит</name>
+<price>1884</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/2fb50842fba3bc5fd79103c43e1adffe_278104ad62a27486cb7e1f23a9e88dfe_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-antik-a3a4-granit-1385.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="79" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Гранит Черный, комплект из 5 видов плит</name>
+<price>1884</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/8bb9777d2169adb17721403b8b5c624e_fc045587dbea50562ba344ed688002ba_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-antik-a3a4-granit.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 40 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="81" available="true">
+<name>Тротуарные плиты "АНТИК" - Б.3.А.6 Гранит Красный комплект из 5 видов плит</name>
+<price>2120</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ae07eabd18e5dc3900452cd30b33055b_deb0783f98fa32f0706aa359e983de29_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-antik-b3a6-granit-1375.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 60 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="82" available="true">
+<name>Тротуарные плиты "АНТИК" - Б.3.А.6 Гранит Коричневый комплект из 5 видов плит</name>
+<price>2120</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/2c3efc7f44b402ff6f0628fa768d9a60_fe5115a520a013ae9bcef12dc00730e6_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-antik-b3a6-granit-1376.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 60 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="84" available="true">
+<name>Тротуарные плиты "АНТИК" - Б.3.А.6 Гранит Желтый комплект из 5 видов плит</name>
+<price>2220</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/1926feb7d4e5a046e1afc7ed190315c6_66a07607adfa506a0d62fe344524f187_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-antik-b3a6-granit-1379.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 60 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="85" available="true">
+<name>Тротуарные плиты "АНТИК" - Б.3.А.6 Гранит Белый комплект из 5 видов плит</name>
+<price>2046</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/1f7f1ab13d56805ad0e3c790edd40d07_93f3b6674cd3063178813cd82336567f_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-antik-b3a6-granit-1380.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 60 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="91" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Гранит Красный</name>
+<price>2120</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/88e37726ba39b10b31f1897df11108c2_0edcc316e3dc0328921d26d019cdc273_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-la-linija-b2p6-1276.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 60 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="92" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Гранит Коричневый</name>
+<price>2120</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/91d340bb7f072281dba674348eadc5b4_80baac331a967e9ab3776b9ef2b88feb_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-la-linija-b2p6-1277.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 60 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="94" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Гранит Желтый</name>
+<price>2220</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/11182689230b90bbe7fb5c533cc4b450_d924d42a647ad1adf00001fc3b5cf83f_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-la-linija-b2p6-1280.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 60 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="95" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Гранит Белый</name>
+<price>2046</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/72d65d2e252e749094b9e775d2a594ae_c161df8bab45e309ed0821d87bbb7bf0_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-la-linija-b2p6-1281.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 60 мм; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="102" available="true">
+<name>Тротуарные плиты "ПАРКЕТ" - Б.9.Псм.8 Гранит Красный</name>
+<price>2711</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0111_b2146729e6376130ed6c4e6d4db815bf_149x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-parket-b9psm8-granit-2018.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 80; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="103" available="true">
+<name>Тротуарные плиты "ПАРКЕТ" - Б.9.Псм.8 Гранит Черный</name>
+<price>2711</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0111_b2146729e6376130ed6c4e6d4db815bf_149x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-parket-b9psm8-granit-2020.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 80; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="104" available="true">
+<name>Тротуарные плиты "ПАРКЕТ" - Б.9.Псм.8 Гранит Желтый</name>
+<price>2844</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0111_b2146729e6376130ed6c4e6d4db815bf_149x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-parket-b9psm8-granit-2021.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 80; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="105" available="true">
+<name>Тротуарная плитка "СКОШЕННЫЙ ШЕСТИУГОЛЬНИК" - Б.1.ШГ.6 Гранит Коричневый</name>
+<price>2120</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0119_4979fc7238fdb4be94c6d5f4482a6fe3_429x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-skoshennyj-shestiugolnik-b1shg6-2007.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 60; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="106" available="true">
+<name>Тротуарная плитка "СКОШЕННЫЙ ШЕСТИУГОЛЬНИК" - Б.1.ШГ.6 Гранит Серый</name>
+<price>1937</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0119_4979fc7238fdb4be94c6d5f4482a6fe3_429x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/granit/trotuarnye-plity-skoshennyj-shestiugolnik-b1shg6.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 60; Коллекция: Гранит</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="108" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Искусственный камень Шунгит, комплект из 3 видов плит</name>
+<price>2194</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a0b6950f22cf9_2ce21c662c6363a20165c69ef82f55f9_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnaja-plitka-staryj-gorod-a1fsm4-956.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: 40 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="109" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Искусственный камень Степняк, комплект из 3 видов плит</name>
+<price>2194</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/d2861d8b932b32f1a63_e8f2ac888f9b5db34e86f73db2a32904_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnaja-plitka-staryj-gorod-a1fsm4-957.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: 40 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="110" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Искусственный камень Плитняк, комплект из 3 видов плит</name>
+<price>2194</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/b38a635f5e6c_154d38f548a0c78b29b67af9a4734718_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnaja-plitka-staryj-gorod-a1fsm4-958.html</url>
+<description>Производитель: Курганинск; Цвет: Плитняк; Высота: 40 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Плитняк</param>
+</offer>
+<offer id="111" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Искусственный камень Доломит, комплект из 3 видов плит</name>
+<price>2194</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/f3179a3b100_6b52dd29aff696366fabc3cc1cbfccf6_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnaja-plitka-staryj-gorod-a1fsm4-959.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: 40 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="112" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Искусственный камень Габбро, комплект из 3 видов плит</name>
+<price>2194</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ea4102bf3c0_d79b3956ad58cbc5bb300a16d312ea79_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnaja-plitka-staryj-gorod-a1fsm4-960.html</url>
+<description>Производитель: Курганинск; Цвет: Габбро; Высота: 40 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Габбро</param>
+</offer>
+<offer id="113" available="true">
+<name>Тротуарная плитка "СТАРЫЙ ГОРОД" - А.1.Фсм.4 Искусственный камень Базальт, комплект из 3 видов плит</name>
+<price>2194</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/c417ae8a088f6f5_ab7e0f9acd9ae193787b0b51a7d625f4_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnaja-plitka-staryj-gorod-a1fsm4-961.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: 40 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="116" available="true">
+<name>Тротуарные плиты "АНТАРА" - Б.1.АН.6 Искусственный камень Степняк, комплект из 6 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/fedf7419a1b0fca5a5b56_0f02acd053273fc0e72f615ffa9d866b_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-antara-b1an6-iskusstvennyj-945.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="117" available="true">
+<name>Тротуарные плиты "АНТАРА" - Б.1.АН.6 Искусственный камень Плитняк, комплект из 6 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/anta3_79501defb31fface5e79e457656b652f_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-antara-b1an6-iskusstvennyj-946.html</url>
+<description>Производитель: Курганинск; Цвет: Плитняк; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Плитняк</param>
+</offer>
+<offer id="118" available="true">
+<name>Тротуарные плиты "АНТАРА" - Б.1.АН.6 Искусственный камень Доломит, комплект из 6 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/anta4_b0fed13b835ac34eee05c02aac2590c9_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-antara-b1an6-iskusstvennyj-947.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="119" available="true">
+<name>Тротуарные плиты "АНТАРА" - Б.1.АН.6 Искусственный камень Габбро, комплект из 6 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/anta5_2959defa72e74def63c8aa751f7ad815_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-antara-b1an6-iskusstvennyj-948.html</url>
+<description>Производитель: Курганинск; Цвет: Габбро; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Габбро</param>
+</offer>
+<offer id="120" available="true">
+<name>Тротуарные плиты "АНТАРА" - Б.1.АН.6 Искусственный камень Шунгит, комплект из 6 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/anta1_a1f849dc8dd9ead24b43e2545a0a9da7_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-antara-b1an6-iskusstvennyj.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="121" available="true">
+<name>Тротуарные плиты "КВАДРУМ" - Б.5.К.6 Искусственный камень Степняк</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/e582ddd6d98a54279c_d6c379899969b47cb1810b0060a9de78_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-kvadrum-b5k6-iskusstvennyj-933.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="122" available="true">
+<name>Тротуарные плиты "КВАДРУМ" - Б.5.К.6 Искусственный камень Плитняк</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/cf2bc843ab10fba62_c96dccfa8e6692db4ae294a0f9181cee_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-kvadrum-b5k6-iskusstvennyj-934.html</url>
+<description>Производитель: Курганинск; Цвет: Плитняк; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Плитняк</param>
+</offer>
+<offer id="123" available="true">
+<name>Тротуарные плиты "КВАДРУМ" - Б.5.К.6 Искусственный камень Доломит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/c750186ecdb4c28e62a16cba_5c3bd53e75b129074ea724a4d9da6c38_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-kvadrum-b5k6-iskusstvennyj-935.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="124" available="true">
+<name>Тротуарные плиты "КВАДРУМ" - Б.5.К.6 Искусственный камень Габбро</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ce95875a977cab2f401469d0_b738297fe574f7947c767d5a6c7308f6_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-kvadrum-b5k6-iskusstvennyj-936.html</url>
+<description>Производитель: Курганинск; Цвет: Габбро; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Габбро</param>
+</offer>
+<offer id="125" available="true">
+<name>Тротуарные плиты "КВАДРУМ" - Б.5.К.6 Искусственный камень Базальт</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/d07f544b2a5943_937193fa5b9f189e160efb26f8c99ffb_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-kvadrum-b5k6-iskusstvennyj-937.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="126" available="true">
+<name>Тротуарные плиты "КВАДРУМ" - Б.5.К.6 Искусственный камень Шунгит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/fd1de9b5_e8561c442348eea9b6d4ba1923390ac4_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-kvadrum-b5k6-iskusstvennyj.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="127" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.5.П.6 Искусственный камень Шунгит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/dary7_299d12c2ca4976ba1aac9300158ce59a_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-la-linija-b5p6-902.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="128" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.5.П.6 Искусственный камень Степняк</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/dary8_7ac257199f24b5bc37a42b83e4704ea3_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-la-linija-b5p6-903.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="129" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.5.П.6 Искусственный камень Плитняк</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/dary9_5d882cdea023b0b596cc0082a1c946d5_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-la-linija-b5p6-904.html</url>
+<description>Производитель: Курганинск; Цвет: Плитняк; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Плитняк</param>
+</offer>
+<offer id="130" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.5.П.6 Искусственный камень Доломит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/dary10_9cb9f6cfcb7c6056d8d0a3771970eaba_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-la-linija-b5p6-905.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="131" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.5.П.6 Искусственный камень Габбро</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/dary11_a04f679b2a3d700f231e27651b84b116_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-la-linija-b5p6-906.html</url>
+<description>Производитель: Курганинск; Цвет: Габбро; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Габбро</param>
+</offer>
+<offer id="132" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Искусственный камень Степняк, комплект из 4 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/lilja1_a6f276514c62606d6a831f641fb4810f_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-mjunhen-b2fsm6-iskusstvennyj-891.html</url>
+<description>Производитель: Курганинск; Цвет: Степняк; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Степняк</param>
+</offer>
+<offer id="133" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Искусственный камень Плитняк, комплект из 4 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/lilja2_ff9a834fe19d96c3320b7b09babec0dc_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-mjunhen-b2fsm6-iskusstvennyj-892.html</url>
+<description>Производитель: Курганинск; Цвет: Плитняк; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Плитняк</param>
+</offer>
+<offer id="134" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Искусственный камень Доломит, комплект из 4 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/lilja3_aa905fce07751cefd419f8dee1b19bab_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-mjunhen-b2fsm6-iskusstvennyj-893.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="135" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Искусственный камень Габбро, комплект из 4 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/lilja4_8f449a79bc9a7c0f48b23ab2f6a2075b_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-mjunhen-b2fsm6-iskusstvennyj-894.html</url>
+<description>Производитель: Курганинск; Цвет: Габбро; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Габбро</param>
+</offer>
+<offer id="136" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Искусственный камень Базальт, комплект из 4 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/lilja5_2633ec1fa84a41d819c90f2663830ce3_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-mjunhen-b2fsm6-iskusstvennyj-895.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="137" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Искусственный камень Шунгит, комплект из 4 видов плит</name>
+<price>2496</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/lilja0_8896200967851c75bdf1312b0748b939_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-mjunhen-b2fsm6-iskusstvennyj.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="138" available="true">
+<name>Тротуарные плиты "ПАРКЕТ" - Б.9.Псм.8 Искусственный камень Базальт</name>
+<price>2989</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0111_b2146729e6376130ed6c4e6d4db815bf_149x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-parket-b9psm8-iskusstvennyj-2023.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: 80; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="139" available="true">
+<name>Тротуарные плиты "ПАРКЕТ" - Б.9.Псм.8 Искусственный камень Доломит</name>
+<price>2989</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/catalog_page-0111_b2146729e6376130ed6c4e6d4db815bf_149x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-parket-b9psm8-iskusstvennyj.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: 80; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="140" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.6 Искусственный камень Доломит, комплект из 3 видов плит</name>
+<price>2809</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ac53e4163e_5758d113e3545d2c98914aa14c6bb179_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-staryj-gorod-b1fsm6-865.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="141" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.6 Искусственный камень Габбро, комплект из 3 видов плит</name>
+<price>2809</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/f91f379f60acfd183c0c6a_65c0547d26fa300bb0873041686aa720_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-staryj-gorod-b1fsm6-866.html</url>
+<description>Производитель: Курганинск; Цвет: Габбро; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Габбро</param>
+</offer>
+<offer id="142" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.6 Искусственный камень Базальт, комплект из 3 видов плит</name>
+<price>2809</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/c83fef807156d7b740cf86e_bdefa31dbca55a8a2a28d080a14b8156_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/iskusstvennyj-kamen/trotuarnye-plity-staryj-gorod-b1fsm6-867.html</url>
+<description>Производитель: Курганинск; Цвет: Базальт; Высота: 60 мм; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Базальт</param>
+</offer>
+<offer id="149" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Стандарт Серый, комплект из 5 видов плит</name>
+<price>1022</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/b9080bc_5fe1f5cf13d933abd9ae4ee41e69ef1a_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-a3a4-standart-1120.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="150" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Стандарт Красный, комплект из 5 видов плит</name>
+<price>1112</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/bfc4a5c27b06_68f4341095651f565bb96064b0203630_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-a3a4-standart-1122.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="151" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Стандарт Коричневый, комплект из 5 видов плит</name>
+<price>1112</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/dd035977e78_bc0db70e9097ae8f18214001a11141f9_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-a3a4-standart-1123.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="152" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Стандарт Желтый, комплект из 5 видов плит</name>
+<price>1282</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/f4838747_0f09edd12cac069e276c44b3a42a4af9_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-a3a4-standart-1124.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="153" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Стандарт Белый, комплект из 5 видов плит</name>
+<price>1143</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a1e_180dad4b53d39b55777ac7aead1ef03e_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-a3a4-standart-1125.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="154" available="true">
+<name>Тротуарные плиты "АНТИК" - А.3.А.4 Стандарт Черный, комплект из 5 видов плит</name>
+<price>1112</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/c17b1427e_19000ea64f932710492b855cce784365_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-a3a4-standart.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="155" available="true">
+<name>Тротуарные плиты "АНТИК" - Б.3.А.6 Стандарт Серый</name>
+<price>1287</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a0c44a5a163ccc21357_3e8916f292c22b98a27db5db34012b16_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-b3a6-standart-1113.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="156" available="true">
+<name>Тротуарные плиты "АНТИК" - Б.3.А.6 Стандарт Красный</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a7f_3bfc41249d72e09d53fc79296d855de4_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-b3a6-standart-1115.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="157" available="true">
+<name>Тротуарные плиты "АНТИК" - Б.3.А.6 Стандарт Коричневый</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/eb5b4_0b4e797fe66214bd00aa09090948c8e4_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-b3a6-standart-1116.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="158" available="true">
+<name>Тротуарные плиты "АНТИК" - Б.3.А.6 Стандарт Желтый</name>
+<price>1494</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/db97a8_31ce94e6ebaee2248c1125f376fdd0cd_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-antik-b3a6-standart-1117.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="159" available="true">
+<name>Тротуарные плиты "КЛАССИКО" - А.4.КО.4 Стандарт Серый, комплект из 2 видов плит</name>
+<price>855</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a0c69396c9f7b_b7227709ce3906ba226e013b5719021c_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-klassiko-a1ko4-standart-1106.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="160" available="true">
+<name>Тротуарные плиты "КЛАССИКО" - А.4.КО.4 Стандарт Коричневый, комплект из 2 видов плит</name>
+<price>1112</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a233589e5303c_ed05cd3a3e14a06abe3b9439e601b289_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-klassiko-a1ko4-standart-1109.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="161" available="true">
+<name>Тротуарные плиты "КЛАССИКО" - А.4.КО.4 Стандарт Желтый, комплект из 2 видов плит</name>
+<price>938</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/b60_f6a24924c2cf779490e2408a4163a1ef_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-klassiko-a1ko4-standart-1110.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="162" available="true">
+<name>Тротуарные плиты "КЛАССИКО" - А.4.КО.4 Стандарт Белый, комплект из 2 видов плит</name>
+<price>1143</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/b63cc872bc00a863d840c4_8ceadeb18ed078a44536bb44d2eb002b_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-klassiko-a1ko4-standart-1111.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="163" available="true">
+<name>Тротуарные плиты "КЛАССИКО" - А.4.КО.4 Стандарт Черный, комплект из 2 видов плит</name>
+<price>1112</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a7071972e91030_60f830871ea75f338a3461d6e182fbdf_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-klassiko-a1ko4-standart.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="167" available="true">
+<name>Тротуарные плиты "КЛАССИКО" - Б.4.КО.6 Стандарт Желтый, комплект из 3 видов плит</name>
+<price>1107</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/c847dd5471c7_6220c210033a50ef3ebd6413433d295a_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-klassiko-b1ko6-standart-1103.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="168" available="true">
+<name>Тротуарные плиты "КЛАССИКО" - Б.4.КО.6 Стандарт Белый, комплект из 3 видов плит</name>
+<price>1381</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/c76d_0beb26ab87dd21ea834bfa6c52ee24d3_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-klassiko-b1ko6-standart-1104.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="170" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - А.2.П.4 Стандарт Черный</name>
+<price>1112</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/eh8_5874b906dad2fca2d5b61d2e1503c001_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-a2p4-1077.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="171" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - А.2.П.4 Стандарт Серый</name>
+<price>855</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/_t1_9e558270c8829a29eff619294cc8a9f0_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-a2p4-1078.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="172" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - А.2.П.4 Стандарт Красный</name>
+<price>980</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/_t3_860c2f61b99ea39fb217c6f79b893645_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-a2p4-1080.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="173" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - А.2.П.4 Стандарт Коричневы</name>
+<price>1112</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/_t4_eefd9f7433a2a4fbc5687c3713ac9734_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-a2p4-1081.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="174" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - А.2.П.4 Стандарт Желтый</name>
+<price>980</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/_t5_bedc741a2ec5fd330ddbadbe8e1003b0_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-a2p4-1082.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 40 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="177" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Стандарт Черный</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/vy1_7b97726f7c96250092b86093e541f207_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p6-1049.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="178" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Стандарт Серый</name>
+<price>986</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/vy2_db1697c5e70dcc0cbae12c3d329cfffc_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p6-1050.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="179" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Стандарт Красный</name>
+<price>1107</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/vy4_fa0cf2159b0ddc15a781dea5da78a9eb_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p6-1052.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="180" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Стандарт Коричневый</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/vy5_f5e9df4ed60fb6b0eeafd7d94d1a5241_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p6-1053.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="181" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Стандарт Желтый</name>
+<price>1107</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ae6bc2bb03e8c986fcc5_8c3e1972a9efffb4b63428acc6314dec_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p6-1054.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="182" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.6 Стандарт Белый</name>
+<price>1381</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/d98ca03061394a_1589fe51c8f8a78613e1d849e4b893eb_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p6-1055.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="183" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.8 Стандарт Черный</name>
+<price>1731</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a5c6f09ab9df82e_cf546969155ef1322bfec14d7e91101d_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p8-1042.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="184" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.8 Стандарт Серый</name>
+<price>1543</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/cb877d92b_42f7839dcf3025ea895650e0b1a68ffa_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p8-1043.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="185" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.8 Стандарт Красный</name>
+<price>1731</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/c6777033c2b3bc6b7b35_9f58e33b16b623880ab6f246bc38ef9c_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p8-1045.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="186" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.8 Стандарт Коричневый</name>
+<price>1731</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/e2df9ec6b30eee_4d3fba82437197f6ef5d0ddf93f8a185_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p8-1046.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="187" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.8 Стандарт Желтый</name>
+<price>1774</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/e6ef79bc34_f36daef0f86f1cc821454b14d9b84608_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p8-1047.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="188" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.2.П.8 Стандарт Белый</name>
+<price>1666</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/d8ca91_bbe8d9b89a74b3b6946f61c2bca6cb44_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b2p8-1048.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="189" available="true">
+<name>Тротуарные плиты "ЛА-ЛИНИЯ" - Б.5.П.6 Стандарт Белый</name>
+<price>1381</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/b97eb2119e_1c151e34e24098908a8d967bfc39659c_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-la-linija-b5p6-1034.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="190" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Стандарт Серый, комплект из 4 видов плит</name>
+<price>1287</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ijun2_3d2857a293df4edf19c792ca4939c547_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-mjunhen-b2fsm6-standart-1010.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="191" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Стандарт Красный, комплект из 4 видов плит</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ijun4_5d1bb222ff1686f0d8b1c8e162e8f442_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-mjunhen-b2fsm6-standart-1012.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="192" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Стандарт Коричневый, комплект из 4 видов плит</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ijun5_0f0cbeb54b1d64cef39af83072933766_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-mjunhen-b2fsm6-standart-1013.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="193" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Стандарт Желтый, комплект из 4 видов плит</name>
+<price>1494</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ijun6_d1a3e94fb35c519481a10a0759b8cf20_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-mjunhen-b2fsm6-standart-1014.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="194" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Стандарт Белый, комплект из 4 видов плит</name>
+<price>1381</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ijun7_8cf5ba09c45936cc78cbb4e28bba9d40_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-mjunhen-b2fsm6-standart-1015.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="195" available="true">
+<name>Тротуарные плиты "МЮНХЕН" - Б.2.Фсм.6 Стандарт Черный, комплект из 4 видов плит</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/mjun1_3e05af624c1d2a7bed58c47906b99882_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-mjunhen-b2fsm6-standart.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="211" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.6 Стандарт Черный, комплект из 3 видов плит</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/trot5_944c09f32d94a430316ee947db18ddee_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-staryj-gorod-b1fsm6-975.html</url>
+<description>Производитель: Курганинск; Цвет: Черный; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer id="212" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.6 Стандарт Серый, комплект из 3 видов плит</name>
+<price>1287</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/zhot1_ffdb46cdec754797d9299ecf67b3c36f_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-staryj-gorod-b1fsm6-976.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="213" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.6 Стандарт Красный, комплект из 3 видов плит</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/zhot3_f21da5005e3de5e5ad73d8209fc2473d_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-staryj-gorod-b1fsm6-978.html</url>
+<description>Производитель: Курганинск; Цвет: Красный; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="214" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.6 Стандарт Коричневый, комплект из 3 видов плит</name>
+<price>1373</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/zhot4_d2d856b9db82dad22a299a584973f933_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-staryj-gorod-b1fsm6-979.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="215" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.6 Стандарт Желтый, комплект из 3 видов плит</name>
+<price>1494</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/zhot5_2a5cf80c8cb64138408913257be92383_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-staryj-gorod-b1fsm6-980.html</url>
+<description>Производитель: Курганинск; Цвет: Желтый; Высота: 60 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer id="216" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.8 Стандарт Серый комплект из 3 видов плит</name>
+<price>1543</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ser3_692f7b85bb5c362533b9fcaa8547143e_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-staryj-gorod-b1fsm8-963.html</url>
+<description>Производитель: Курганинск; Цвет: Серый; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="217" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.8 Стандарт Коричневый комплект из 3 видов плит</name>
+<price>1731</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/kor6_c123d976ddd679cf275a1567ad268432_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-staryj-gorod-b1fsm8-965.html</url>
+<description>Производитель: Курганинск; Цвет: Коричневый; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="218" available="true">
+<name>Тротуарные плиты "СТАРЫЙ ГОРОД" - Б.1.Фсм.8 Стандарт Белый комплект из 3 видов плит</name>
+<price>1666</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/bel9_cb229f016fc4daa231ac87d240aa85f9_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/kollekcii-trotuarnoj-plity-vybor/standart/trotuarnye-plity-staryj-gorod-b1fsm8-967.html</url>
+<description>Производитель: Курганинск; Цвет: Белый; Высота: 80 мм; Коллекция: Стандарт</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="225" available="true">
+<name>Ландшафтные элементы ПИРАМИДА 540*540*700 Белый Гранит</name>
+<price>9300</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/aa0ab3273b1b27a68f31e66b_ec2e2992e91d768c35e591b8f38a1eb8_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/landshaftnye-elementy-piramida-540540700-belyj.html</url>
+<description>Производитель: Новороссийск; Цвет: Белый; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="228" available="true">
+<name>Ландшафтные элементы ПИРАМИДА 540*540*700 С пигментом Гранит</name>
+<price>10300</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/bcfcb71e81943f435a22527c95_d93f080e5ca53ac7c7e9ef83483edb36_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/landshaftnye-elementy-piramida-540540700-s.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="232" available="true">
+<name>Ландшафтные элементы ПОЛУШАР d=600 Белый Гранит</name>
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/b78c536fea9637bfbc9c5dafe_b7577eb70b41407acf3c93d988da8e69_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/landshaftnye-elementy-polushar-d600-belyj.html</url>
+<description>Производитель: Новороссийск; Цвет: Белый; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="235" available="true">
+<name>Ландшафтные элементы ПОЛУШАР d=600 С пигментом Гранит</name>
+<price>9800</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a6de79703eb6b3b48dbcd730b14_94df8b683b9d92ed34e254ca8f82fd03_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/landshaftnye-elementy-polushar-d600-s.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="240" available="true">
+<name>Ландшафтные элементы ШАР-1 d=600 С пигментом Гранит</name>
+<price>13500</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/b8947058f66de2590055a14c5e6ca_43e6589bcf1060f6ee30dbb6cefd5020_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/landshaftnye-elementy-shar-1-d600-593.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="242" available="true">
+<name>Ландшафтные элементы ШАР-1 d=600 Белый Гранит</name>
+<price>12200</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/e29514764da9d044420e69c_477fd15157504e38e79c84f4faaf97d0_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/landshaftnye-elementy-shar-1-d600-595.html</url>
+<description>Производитель: Новороссийск; Цвет: Белый; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="246" available="true">
+<name>Ландшафтные элементы ШАР-2 d=300 С пигментом Гранит</name>
+<price>5500</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/381f34791f_0a5093cffd75fa8ca20c5c4dfebbdc22_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/landshaftnye-elementy-shar-2-d300-586.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="247" available="true">
+<name>Ландшафтные элементы ШАР-2 d=300 Белый Гранит</name>
+<price>5300</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/a5eb2cd782deabd50e_66cc93552dc7b34a30c01573c80a0da5_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/landshaftnye-elementy-shar-2-d300-588.html</url>
+<description>Производитель: Новороссийск; Цвет: Белый; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="252" available="true">
+<name>ОГРАНИЧИТЕЛЬ ПАРКОВКИ ОП-1 600*485*370 С пигментом Гранит</name>
+<price>14162</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ab44a7db1b81350ae_47d96a6541a29e3bea0887e9ec4de3f8_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/ogranichitel-parkovki-op-1-600485370-579.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="256" available="true">
+<name>ПОДСТАВКА-2 500*500*100 С пигментом Гранит</name>
+<price>5800</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/9b9c35ef4b9c23a5bfacjpg_6c1cb4f45132c14a0ad3ac839f87d485_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/malye-arhitekturnye-formy/podstavka-2-500500100-s-pigmentom.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="260" available="true">
+<name>Цветочница ЦВ-5 600*600*480 С пигментом Гранит</name>
+<price>11200</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/c0cfc63fe2756928c_f928e95b7bf24e89ca9ebe1c6d5ad7ee_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/rasteflory/cvetochnica-cv-5-600600480-s.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="265" available="true">
+<name>Ландшафтные элементы РАСТЕРФЛОР 1РФ.60.25.40 600*250*400 Стандарт гладкая Серый</name>
+<price>710</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/ceb9d39d5c656bfdab219a9_b639641bfab7b78a0c27d8fdb1433aef_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/rasteflory/landshaftnye-elementy-rasterflor-1rf602540-600250400.html</url>
+<description>Производитель: Новороссийск; Цвет: Серый; Коллекция: Стандарт</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">Серый</param>
+</offer>
+<offer id="267" available="true">
+<name>УРНА-1 400*400*600 Белый Гранит</name>
+<price>17599</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/jjjjjj_2d37eaeb6b9aea790a264a5b26d84c83_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/urny/urna-1-400400600-belyj-granit.html</url>
+<description>Производитель: Новороссийск; Цвет: Белый; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="269" available="true">
+<name>УРНА-1 400*400*600 С пигментом Гранит</name>
+<price>19333</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/kkkkkk_5f1c12af7e5c5eaf57282b9911f7ed6e_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/urny/urna-1-400400600-s-pigmentom.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="271" available="true">
+<name>Ландшафтные элементы ВАЗОН-2 d=600, h=400 С пигментом Гранит</name>
+<price>9400</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/iiiii_024a7bc4d46b6304674b1b3a8a9c97e7_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/vazony/landshaftnye-elementy-vazon-2-d600-408.html</url>
+<description>Производитель: Новороссийск; Цвет: С пигментом; Высота: h=400; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">С пигментом</param>
+</offer>
+<offer id="273" available="true">
+<name>Ландшафтные элементы ВАЗОН-2 d=600, h=400 Белый Гранит</name>
+<price>8800</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/bel_9263b6d2ae7bf2d4ed2f0a524bc2ac0d_377x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/landshaftnye-elementy/vazony/landshaftnye-elementy-vazon-2-d600-410.html</url>
+<description>Производитель: Новороссийск; Цвет: Белый; Высота: h=400; Коллекция: Гранит</description>
+<param name="Производитель">Новороссийск</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="278" available="true">
+<name>Крепеж Gidrolica для чугунных решеток DN100</name>
+<price>114</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/2_e316bb0ea73e32fe1c24daf6640898da_450x387_pc.png</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/komplektujuschie/krepezh-gidrolica-dlja-chugunnyh-reshetok.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="279" available="true">
+<name>Крепеж Gidrolica для лотка водоотводного бетонного DN100</name>
+<price>107</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/444_95796ac1290bb392663b57ba91989d81_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/komplektujuschie/krepezh-gidrolica-dlja-lotka-vodootvodnogo-209.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="280" available="true">
+<name>Крепеж Gidrolica для лотка водоотводного пластикового DN150</name>
+<price>110</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/115-1_bab3fc14ba1ab99c5666854c009b74ac_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/komplektujuschie/krepezh-gidrolica-dlja-lotka-vodootvodnogo-210.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="281" available="true">
+<name>Крепеж Gidrolica для лотка водоотводного пластикового DN200</name>
+<price>129</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/7777_f4b6b0679c770b8f4dea7b6ffd15c302_450x300_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/komplektujuschie/krepezh-gidrolica-dlja-lotka-vodootvodnogo-211.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="282" available="true">
+<name>Крепеж Gidrolica для лотка водоотводного пластикового DN100</name>
+<price>95</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/1_73e2d47a1a0e222e2117ee41cd31d8f9_450x291_pc.png</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/komplektujuschie/krepezh-gidrolica-dlja-lotka-vodootvodnogo.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="283" available="true">
+<name>Торцевая заглушка для лотка водоотводного Gidrolica Standart DN150 - пластиковая</name>
+<price>196</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/2199.400_7348faf490b6bdb672a1881a262f4243_450x237_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/komplektujuschie/torcevaja-zaglushka-dlja-lotka-vodootvodnogo-214.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="284" available="true">
+<name>Торцевая заглушка для лотка водоотводного DN200 Gidrolica Standart/Standart Plus, пластиковая</name>
+<price>246</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/0842052606612cde5e93528647cd2c72_86dbb945b0a2e309783603785683cb6e_309x450_pc.png</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/komplektujuschie/torcevaja-zaglushka-dlja-lotka-vodootvodnogo.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="285" available="true">
+<name>Торцевая заглушка универсальная для лотка водоотводного Gidrolica Standart/Standart Plus DN100</name>
+<price>161</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/390123_1_646d6d7006501fb58e90100c834ca1f1_450x338_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/komplektujuschie/torcevaja-zaglushka-universalnaja-dlja-lotka.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="286" available="true">
+<name>Решетка водоприемная Gidrolica Light РВ -30.37.100 - стальная ячеистая оцинкованная, кл. А15</name>
+<price>4474</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/531_4ac3acc68532ba17503f16d6ea399836_450x338_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-light-rv.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="287" available="true">
+<name>Решетка водоприемная Gidrolica Pro РВ -15.18,8.50 - щелевая пластиковая, кл. С250</name>
+<price>957</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/512_0afb69e482a4527c9cf283bd2f91ba08_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-pro-rv.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="288" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.100 - штампованная стальная оцинкованная, кл</name>
+<price>799</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/original-685x685-fit_5bcc07c9e119d504ae0c89337cae4623_395x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-216.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="289" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.50 - ячеистая пластиковая, кл. А15</name>
+<price>225</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/plast_ff1b9ecf1920925fe133f7a23af075bd_450x241_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-217.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="290" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.100 - ячеистая стальная оцинкованная, кл. В125</name>
+<price>1938</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/photoimg_688601616_501f9dd2bed34c88ca0d82f4c5deafe9_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-218.html</url>
+<description>Производитель: Москва; Класс нагрузки: A.B</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A.B</param>
+</offer>
+<offer id="291" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.50 ячеистая чугунная ВЧ, кл. С250</name>
+<price>929</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/507_0b3eb5c6f4fb5ca2c65b34fcd34455bd_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-219.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="292" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.100 - штампованная медная, кл. А15</name>
+<price>4200</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/502_c7bbb9ebdae13acba285373348e55944_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-220.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="293" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.100 - штампованная стальная нержавеющая, кл. А15</name>
+<price>2020</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/503_7a922fe6cf68c61889e7e96a989c4df3_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-221.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="294" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.50 - щелевая чугунная ВЧ оцинкованная, кл. С250</name>
+<price>1155</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/5065_2a95e2379d2804946f8c2e32dfddc65e_369x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-222.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="295" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.50 ячеистая чугунная ВЧ оцинкованная, кл. С250</name>
+<price>1304</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/5075_croped_b2c200a2ca9ce1decd947a9138d7bffa_450x301_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-223.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="296" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.50 - щелевая чугунная ВЧ, кл. С250</name>
+<price>929</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/506_cb234fc5da8e7a13d3e52a4c9795caaa_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-224.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="297" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -15.18,6.100 - штампованная стальная оцинкованная, кл</name>
+<price>1395</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/518_8080ae879e50910f0adf94d4531c0974_450x271_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv-225.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="298" available="true">
+<name>Решетка водоприемная Gidrolica Standart РВ -10.13,6.50 - штампованная стальная оцинкованная, кл. А15</name>
+<price>494</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/e22f7f1e2e3df307947c1cac400b6d7e__1__97d3962623d4bcef9e66686a44a07c30_450x235_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/linejnyj-vodootvod/reshetki-livnevye/reshetka-vodopriemnaja-gidrolica-standart-rv.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="302" available="true">
+<name>Крепящий якорь Gidrolica Line КЯ-Б для бордюра Б-300.8,5.4.5</name>
+<price>42</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/jakor__2_62e275f8d8d1483121a4482d0de804b9_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/dopprinadlezhnosti-dlja-plastikovyh/krepjaschij-jakor-gidrolica-line-kja.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="303" available="true">
+<name>Газонная Решетка Gidrolica Eco Super РГ-60.40.6,4 - пластиковая зеленая</name>
+<price>512</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/99999_13e15487480c435fcb0b0189f9b5d04a_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/gazonnye-reshetki/gazonnaja-reshetka-gidrolica-eco-super-185.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="304" available="true">
+<name>Газонная Решетка Gidrolica Eco Super РГ-60.40.6,4 - пластиковая черная</name>
+<price>457</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/gaz.reshet.2_6a041b31639806e3aed4fee7f3c4b4e0_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/gazonnye-reshetki/gazonnaja-reshetka-gidrolica-eco-super.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="305" available="true">
+<name>Решетка газонная Gidrolica Eco Normal РГ-53.43.3,5 - пластиковая черная</name>
+<price>191</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/7777777_469028e5e221a8d2b606463e65d2637b_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/gazonnye-reshetki/reshetka-gazonnaja-gidrolica-eco-normal-184.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="306" available="true">
+<name>Решетка газонная Gidrolica Eco Normal РГ-53.43.3,5 - пластиковая зеленая</name>
+<price>217</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/666666_799e7e11e30bf37ef7dfd9fa4d0cbed4_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/gazonnye-reshetki/reshetka-gazonnaja-gidrolica-eco-normal.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="307" available="true">
+<name>Решетка газонная Gidrolica Eco Pro РГ-60.60.4 - пластиковая зеленая</name>
+<price>396</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/555555_b30bf3b62aef89b06a4c2d4ac48e9c3b_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/gazonnye-reshetki/reshetka-gazonnaja-gidrolica-eco-pro-182.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="308" available="true">
+<name>Решетка газонная Gidrolica Eco Pro РГ-60.60.4 - пластиковая черная</name>
+<price>365</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/gaz.reshet.1_6a1511fa892146078252d7ee16ec7a47_450x300_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/gazonnye-reshetki/reshetka-gazonnaja-gidrolica-eco-pro.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="309" available="true">
+<name>Решетка газонная Gidrolica Eco Standart РГ-70.40.3,2 - пластиковая зеленая</name>
+<price>275</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/121212_26f950b2b1f6fac91c55ea10b8895e86_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/gazonnye-reshetki/reshetka-gazonnaja-gidrolica-eco-standart-186.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="310" available="true">
+<name>Решетка газонная Gidrolica Eco Standart РГ-70.40.3,2 - пластиковая черная</name>
+<price>249</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/444444_66425a3f51f10f7b3b61c878305a76ab_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/gazonnye-reshetki/reshetka-gazonnaja-gidrolica-eco-standart.html</url>
+<description>Производитель: Москва; Класс нагрузки: А,В,С</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">А,В,С</param>
+</offer>
+<offer id="311" available="true">
+<name>Бордюр Gidrolica Country Б-10000.2.11 - пластиковый черный L10000</name>
+<price>1600</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/bordjur_3_b0ca05c7926c5bcb6157ca19bb10858d_450x267_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/sadovye-bordjury/bordjur-gidrolica-country-b-10000211.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="312" available="true">
+<name>Бордюр Gidrolica Line Б-100.8.4.5 - пластиковый черный L1000</name>
+<price>253</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/bordjur2_bd20f0331726ca54d75a7bdf739c7d19_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/sadovye-bordjury/bordjur-gidrolica-line-b-100845.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="313" available="true">
+<name>Бордюр Gidrolica Line Б-300.8,5.4.5 - пластиковый черный L3000</name>
+<price>1050</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/bordjur_plastikovyj_1d1ad745fe1dee4273cef26f38114164_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/materialy-zaschity-i-ukreplenija/sadovye-bordjury/bordjur-gidrolica-line-b-3008545.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="321" available="true">
+<name>Алюминиевое обрамление для придверных решеток Gidrolica Step</name>
+<price>720</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/gidrolika_386cd810bb89868682f41cc063c6830b_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/dopkomplektacija-pridvernyh-reshetok/aljuminievoe-obramlenie-dlja-pridvernyh-reshetok.html</url>
+<description>Алюминиевое обрамление для придверных решеток Gidrolica Step</description>
+</offer>
+<offer id="322" available="true">
+<name>Амортизатор резиновый для придверных систем грязезащиты</name>
+<price>20</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/gidrolika_386cd810bb89868682f41cc063c6830b_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/dopkomplektacija-pridvernyh-reshetok/amortizator-rezinovyj-dlja-pridvernyh-sistem.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="323" available="true">
+<name>Поддон придверный пластиковый Gidrolica Step Pro</name>
+<price>1338</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/poddon_13ae6245174fab0ce38b315c4ae6c419_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/poddony/poddon-pridvernyj-plastikovyj-gidrolica-step.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="324" available="true">
+<name>Придверная решетка Евро широкий скребок+резина</name>
+<price>16100</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka5_5340da3959d2fb0b986ad5e0be011699_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-evro-shirokij-skrebokrezina-161.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="325" available="true">
+<name>Придверная решетка Евро широкий скребок+резина+текстиль</name>
+<price>15655</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka9_b4807eb7d3d976f8599f2f72e34d23ff_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-evro-shirokij-skrebokrezinatekstil-164.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="326" available="true">
+<name>Придверная решетка Евро широкий скребок+текстиль</name>
+<price>3940</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka3_411b64ee18ac8200e4da78cd193af44a_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-evro-shirokij-skreboktekstil.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="327" available="true">
+<name>Придверная решетка Gidrolica Step - резина+текстиль</name>
+<price>3700</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka6_c132b0ebaec14f24b509d2cbf2082c9a_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-gidrolica-step-rezinatekstil.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="328" available="true">
+<name>Придверная решетка Gidrolica Step - резина+текстиль+скребок, м.кв.</name>
+<price>16495</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka6_c132b0ebaec14f24b509d2cbf2082c9a_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-gidrolica-step-rezinatekstilskrebok.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="329" available="true">
+<name>Придверная решетка Gidrolica Step - щетка</name>
+<price>6670</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka7_2dea5aa8d1876bb82655c333e3066173_450x338_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-gidrolica-step-schetka.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="330" available="true">
+<name>Придверная решетка Gidrolica Step - щетка+скребок</name>
+<price>7030</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka7_2dea5aa8d1876bb82655c333e3066173_450x338_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-gidrolica-step-schetkaskrebok.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="331" available="true">
+<name>Придверная решетка Gidrolica Step - текстиль+щетка, м.кв.</name>
+<price>22080</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka10_77d55b2d02b8bfb0df05ecaf591114c5_450x235_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-gidrolica-step-tekstilschetka-172.html</url>
+<description>Производитель: Москва</description>
+<param name="Производитель">Москва</param>
+</offer>
+<offer id="332" available="true">
+<name>Придверная решетка Gidrolica Step - текстиль+щетка</name>
+<price>5565</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka8_4e798054a6ee87c18a8cdd279a19059c_450x270_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-gidrolica-step-tekstilschetka.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="333" available="true">
+<name>Придверная решетка Gidrolica Step - текстиль+щетка+скребок</name>
+<price>5210</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka10_77d55b2d02b8bfb0df05ecaf591114c5_450x235_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/pridvernaja-reshetka-gidrolica-step-tekstilschetkaskrebok.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="334" available="true">
+<name>Решетка Gidrolica Step Pro 390х590мм - стальная ячеистая оцинкованная</name>
+<price>3611</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka_18_0ac21785803d06a30e81cfc8f544b881_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/reshetka-gidrolica-step-pro-390h590mm.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+<offer id="335" available="true">
+<name>Решетка Gidrolica Step Pro 490х990мм - стальная ячеистая оцинкованная</name>
+<price>4508</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<picture>https://www.xn----9sbcc3bmlq0h.xn--p1ai/_mod_files/ce_images/eshop/generated/schetka_17_b69b9b503994a73e57347c2117441a41_450x450_pc.jpg</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/pridvernye-sistemy-grjazezaschity/pridvernye-reshetki/reshetka-gidrolica-step-pro-490h990mm.html</url>
+<description>Производитель: Москва; Класс нагрузки: A</description>
+<param name="Производитель">Москва</param>
+<param name="Класс нагрузки">A</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
