@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-24T12:00:00">
+<shop>
+<name>Выбор КМВ</name>
+<company>Выбор КМВ</company>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Декоративные блоки для забора</category>
+</categories>
+<offers>
+<offer id="14" available="true">
+<name>Блок полнотелый для кладки армированных колонн и простенков СКЦ(тп)-7Л150кол 300*150*150</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-dlja-kladki-armirovannyh-470.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+<offer id="15" available="true">
+<name>Блок полнотелый для кладки армированных колонн и простенков СКЦ(тп)-7Л150кол 300*150*150</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-dlja-kladki-armirovannyh-471.html</url>
+<description>Производитель: Курганинск; Цвет: Шунгит; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Шунгит</param>
+</offer>
+<offer id="16" available="true">
+<name>Блок полнотелый для кладки неармированных колонн СКЦ(тп)-8Л150кол 300*150*150 Искусственный камень</name>
+<price>284</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png</picture>
+<url>https://www.xn----9sbcc3bmlq0h.xn--p1ai/dekorativnye-bloki-dlja-zabora/iskusstvennyj-kamen/blok-polnotelyj-dlja-kladki-nearmirovannyh-473.html</url>
+<description>Производитель: Курганинск; Цвет: Доломит; Высота: h=150; Коллекция: Искусственный камень</description>
+<param name="Производитель">Курганинск</param>
+<param name="Цвет">Доломит</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
